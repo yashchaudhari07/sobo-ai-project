@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/sobo-ai-project/static/css/main.03062170.css",
+    "main.js": "/sobo-ai-project/static/js/main.baae3258.js",
+    "static/js/453.d2878248.chunk.js": "/sobo-ai-project/static/js/453.d2878248.chunk.js",
+    "static/media/s4.svg": "/sobo-ai-project/static/media/s4.8bd647f612a589009b8a996dbddae316.svg",
+    "static/media/s3.svg": "/sobo-ai-project/static/media/s3.aa5ceef2e6162fd106b71f674aec2af0.svg",
+    "static/media/f1.svg": "/sobo-ai-project/static/media/f1.6392d4f3d40e8160d27b90bd1ab73f0b.svg",
+    "static/media/f8.svg": "/sobo-ai-project/static/media/f8.5b22f9dde7b592342e226595bd3faac5.svg",
+    "static/media/a5.svg": "/sobo-ai-project/static/media/a5.ad327ad61cb5ca5abe5a46398b7770b5.svg",
+    "static/media/f4.svg": "/sobo-ai-project/static/media/f4.29d349077dcbc5bc53afe084504f46db.svg",
+    "static/media/f7.svg": "/sobo-ai-project/static/media/f7.fb9bdac539b2428f7d5a2b2de89b3f28.svg",
+    "static/media/a4.svg": "/sobo-ai-project/static/media/a4.b7a92e4a10bbe1912a87b34b6b73829c.svg",
+    "static/media/f9.svg": "/sobo-ai-project/static/media/f9.efe92ef3c6074e13d20f51149d6328ff.svg",
+    "static/media/f5.svg": "/sobo-ai-project/static/media/f5.ffa2abe28a5ba5c0e54f9b26b25c92e6.svg",
+    "static/media/a7.svg": "/sobo-ai-project/static/media/a7.915ad7657094f080ea0128cc7672ca55.svg",
+    "static/media/s2.svg": "/sobo-ai-project/static/media/s2.7d532fac6a5a2e77bce84e688410ce16.svg",
+    "static/media/f2.svg": "/sobo-ai-project/static/media/f2.fc4b49998373e233a6de157c9b8fdc43.svg",
+    "static/media/s1.svg": "/sobo-ai-project/static/media/s1.f7e9c30250b7b86bb711f9e25696a892.svg",
+    "static/media/f6.svg": "/sobo-ai-project/static/media/f6.2c43d1714836aac065599a879df69241.svg",
+    "static/media/f3.svg": "/sobo-ai-project/static/media/f3.a05627643bfb803f7b5f1dfa62a9b794.svg",
+    "static/media/a3.svg": "/sobo-ai-project/static/media/a3.893deb635c7d36ca097eeb128308558a.svg",
+    "static/media/a2.svg": "/sobo-ai-project/static/media/a2.11c2c765ebbcac7d4e3a9bb965b0ee0a.svg",
+    "index.html": "/sobo-ai-project/index.html",
+    "static/media/a1.svg": "/sobo-ai-project/static/media/a1.4cf1a32d1817444336df1415417be2ed.svg",
+    "static/media/a6.svg": "/sobo-ai-project/static/media/a6.c3447feddb2eba228ea1c559d4c084bb.svg",
+    "main.03062170.css.map": "/sobo-ai-project/static/css/main.03062170.css.map",
+    "main.baae3258.js.map": "/sobo-ai-project/static/js/main.baae3258.js.map",
+    "453.d2878248.chunk.js.map": "/sobo-ai-project/static/js/453.d2878248.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03062170.css",
+    "static/js/main.baae3258.js"
+  ]
+}
